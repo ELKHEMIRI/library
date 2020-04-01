@@ -1,4 +1,4 @@
-# library webb app for docker demo
+# library web app for docker demo
 
 ### To construct a docker image
 docker build -t library:latest .
